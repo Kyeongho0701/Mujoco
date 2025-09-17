@@ -123,3 +123,5 @@ python control_cartpole.py
 ### 결과 
 <img width="1246" height="703" alt="무조코카트폴연습예제" src="https://github.com/user-attachments/assets/46bb225e-1f8c-4b99-940f-acd67d146032" />
 아직 원하는 수준의 task 수행X
+
+### 오픈소스 모델 Clone 및 수행 작업. 
