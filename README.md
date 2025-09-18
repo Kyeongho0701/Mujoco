@@ -126,8 +126,11 @@ python control_cartpole.py
 
 ### 무조코를 사용하기 위해서 나중에는 오픈소스를 받아서 실행만 시키더라도 기초적인 파이썬 문법등을 직접 짜지 않으면 의미가 없다는 판단 . (AI 툴은 힌트용으로만 사용하고 cartpole 문제 수행하는 파이썬 파일 만들어보기.)
 
+**예시**
+<img width="1182" height="1072" alt="공부방법" src="https://github.com/user-attachments/assets/f47eb134-050f-4a46-aae7-366efaa75b81" />
+
+
 ```bash
-#1단계 라이브러리 불러오기
-import gymnasium as gym
-import time
+#1단계 정답 라이브러리 불러오기
+
 ```
