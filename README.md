@@ -124,4 +124,10 @@ python control_cartpole.py
 <img width="1246" height="703" alt="무조코카트폴연습예제" src="https://github.com/user-attachments/assets/46bb225e-1f8c-4b99-940f-acd67d146032" />
 아직 원하는 수준의 task 수행X
 
-### 오픈소스 모델 Clone 및 수행 작업. 
+### 무조코를 사용하기 위해서 나중에는 오픈소스를 받아서 실행만 시키더라도 기초적인 파이썬 문법등을 직접 짜지 않으면 의미가 없다는 판단 . (AI 툴은 힌트용으로만 사용하고 cartpole 문제 수행하는 파이썬 파일 만들어보기.)
+
+```bash
+#1단계 라이브러리 불러오기
+import gymnasium as gym
+import time
+```
